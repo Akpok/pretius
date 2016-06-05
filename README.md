@@ -1,0 +1,2 @@
+# pretius
+Test kompetencji
